@@ -1,5 +1,8 @@
 # FitnessOK 
 
+# FitnessOK
+
+
 Project Overview
 - Project name:- FitnessOK.
 - Group members:- [Vipul Koli](https://github.com/KoliVipul2000), [Vaishnavi Patil](https://github.com/VaishPatil2002).
@@ -9,7 +12,7 @@ Project Overview
   Prerequisites:
   - An Azure account with an active subscription. [Create an account for free.](https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F)
  
-  Video:- https://drive.google.com/file/d/10CMkEa2EvcqqjG7_R_6bPoJjVpp4P5_X/view?usp=sharing
+  Video:- https://drive.google.com/file/d/1QRShXC9Qez-NduRRp8Z2CRz8EQU73V_p/view?usp=sharing
   
   Project Demo Url:- https://vaishnavi.vipul.cloud/
   
@@ -84,18 +87,17 @@ use fitnessok;
     In the search bar, we can see the default domain.
    ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/4ad63230-0bda-47f5-8dc7-2288280d6301)
     Now we have to change our domain name, we can change using DNS.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/ebaae23f-b172-4776-9a02-e22f714d2be8)
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/b046e2fc-57bd-4b23-8d97-2c52473bbd6f)
     Click on Create and fill in the credentials, we have to set the domain name in it.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/85270374-b386-4111-885b-12c307da3bab)
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/869340f2-de59-4382-bd55-147e73014e27)
     Go to review and create and click on create.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/ab4b62aa-abdf-40d4-b6a9-38de7785cfff)
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/b40cc133-74a4-4e17-b9f7-d29ac528defe)
     Go to the resource.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/8c5935ba-e4fb-4312-b71b-823a731f11bd)
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/b49f50ec-c0ec-4d3b-9675-ae18f8acff47)
     We have to add the record set first, click on the record set and fill in the credentials properly.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/455dfdfc-b881-424e-9d07-01833472c66b)
-   
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/3f415971-fe29-455a-b603-7bd85b04ddb5)
     Then try opening the website by the domain name you have named.
-   ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/c60bf934-2048-4412-a057-8cb9a4de8827) As you can see in the search box my domain name is set.
+   ![image](https://github.com/VaishPatil2002/FitnessOK/assets/166396026/4598de28-1101-4f46-9d9e-db7232cc64d7) As you can see in the search box my domain name is set.
     Now we need alerts if the website is taking too much of a load, then search & create an application insight service.
    ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/35bb4353-b8a0-4ab4-abc8-4bd2880cefcf)
    
@@ -127,6 +129,10 @@ Transaction pages
 ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/0f827588-016e-4505-985e-241b8ca06324)
 ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/420085bb-0fba-4afd-acf1-8a101694c159)
 ![image](https://github.com/Vipulkoli2000/PROJECT-FitnessOK/assets/115494015/7269c54d-a56a-4fcc-a6f8-f417631a4e4b)
+
+
+
+
 
 
 
