@@ -13,7 +13,7 @@ Project Overview
   
   Project Demo Url:- https://vaishnavi.vipul.cloud/
   
-  Project pdf URL:- https://drive.google.com/file/d/1foYpH7avwu0PRKNZS_5YiDK6akj3U4vI/view?usp=sharing
+  Project pdf URL:- https://drive.google.com/file/d/1mOmY-XdQkBH8pPg9LPseFRcxAMcqrwB7/view?usp=sharing
      
 Azure Services Used:
 1. App Service.
