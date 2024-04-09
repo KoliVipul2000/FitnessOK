@@ -9,11 +9,11 @@ Project Overview
   Prerequisites:
   - An Azure account with an active subscription. [Create an account for free.](https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F)
  
-  Video:- https://drive.google.com/file/d/1QRShXC9Qez-NduRRp8Z2CRz8EQU73V_p/view?usp=sharing
+  Video:- https://drive.google.com/file/d/10CMkEa2EvcqqjG7_R_6bPoJjVpp4P5_X/view?usp=sharing
   
-  Project Demo Url:- https://vaish.vipul.cloud/
+  Project Demo Url:- https://vaishnavi.vipul.cloud/
   
-  Project pdf URL:- https://drive.google.com/file/d/1TMcZz4zvoyIZ_3Yg-N47unkJke_pShvL/view?usp=sharing
+  Project pdf URL:- https://drive.google.com/file/d/1foYpH7avwu0PRKNZS_5YiDK6akj3U4vI/view?usp=sharing
      
 Azure Services Used:
 1. App Service.
