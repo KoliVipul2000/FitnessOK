@@ -1,8 +1,5 @@
 # FitnessOK 
 
-# FitnessOK
-
-
 Project Overview
 - Project name:- FitnessOK.
 - Group members:- [Vipul Koli](https://github.com/KoliVipul2000), [Vaishnavi Patil](https://github.com/VaishPatil2002).
